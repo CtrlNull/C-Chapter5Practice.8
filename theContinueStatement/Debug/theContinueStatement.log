@@ -1,0 +1,2 @@
+﻿  theContinueStatement.cpp
+\\server\d\projects\c++\chapter.5.five\thecontinuestatement\thecontinuestatement.cpp(32): error C4700: uninitialized local variable 'numDVDs' used
